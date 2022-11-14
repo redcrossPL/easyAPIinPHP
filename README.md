@@ -28,7 +28,7 @@ Login on this site:
 - username
 - password
 3. We can do it in the postman application or write attributes in the link as before:
-  http://localhost/easyAPIinPHP/login.php?login_user&username=redcross&password=123
+  http://localhost/easyAPIinPHP/login.php?login_user=&username=redcross&password=123
 4. After entering the correct data existing in the database, we logged in.
 
 ENJOY!!!
