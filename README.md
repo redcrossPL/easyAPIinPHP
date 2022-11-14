@@ -2,10 +2,11 @@
 
 To test this project or use it you must:
 
-1. Import database.db from project to your phpmyadmin panel.
-2. Enable mysql or mariadb and apache (I suggest XAMPP).
-3. If you use XAMPP move the project folder to the htdocs.
-4. Go to site http://localhost/easyAPIinPHP/login.php?login_user=
+1. Clone this repository: git clone https://github.com/redcrossPL/easyAPIinPHP/
+2. Import database.db from project to your phpmyadmin panel.
+3. Enable mysql or mariadb and apache (I suggest XAMPP).
+4. If you use XAMPP move the project folder to the htdocs.
+5. Go to site http://localhost/easyAPIinPHP/login.php?login_user=
 You have received a message that you have not logged in. It is because the database is empty and you have not provided login details.
 
 Register on this site:
